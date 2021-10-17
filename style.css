@@ -1,0 +1,17 @@
+.font{
+    font-size: 50px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bold,#resultobject,#resultacuracy{
+    color:yellowgreen;
+}
+#camera{
+    border: blueviolet 2px dashed;
+    height: 300px;
+    width: 350px;
+}
+body{
+    background-color: midnightblue;
+    color: lime;
+}
